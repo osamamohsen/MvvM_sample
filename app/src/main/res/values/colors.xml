@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_grand_call">#fff8701a</color>
+    <color name="bg_grand_what">#ffc85711</color>
+    <color name="colorPrimary">#0d587e</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorPrimaryDark">#005b54</color>
+    <color name="colorAccent">#019fd9</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorSilverGrey">#AFACAC</color>
+    <color name="colorSilver">#d1cccc</color>
+    <color name="colorSilverWhite">#DDDADA</color>
+    <color name="colorBlack">#000</color>
+
+    <!-- color multiple select -->
+    <color name="multiple_image_select_primary">#2E7D32</color>
+    <color name="multiple_image_select_primaryDark">#1B5E20</color>
+    <color name="multiple_image_select_primaryLight">#C8E6C9</color>
+    <color name="multiple_image_select_accent">#4CAF50</color>
+
+    <color name="multiple_image_select_primaryText">#212121</color>
+    <color name="multiple_image_select_secondaryText">#727272</color>
+    <color name="multiple_image_select_divider">#B6B6B6</color>
+
+    <color name="multiple_image_select_toolbarPrimaryText">#7f84ff</color>
+
+    <color name="multiple_image_select_albumTextBackground">#3fa9f5</color>
+    <color name="multiple_image_select_imageSelectBackground">#000000</color>
+
+    <color name="multiple_image_select_buttonText">#4cffe6</color>
+    <!-- color multiple select -->
+</resources>
