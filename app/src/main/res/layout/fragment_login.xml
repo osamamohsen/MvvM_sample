@@ -57,7 +57,7 @@
                             android:paddingEnd="10dp"
                             android:text="@={loginViewModel.loginRequest.username}"
                             android:textSize="11sp"
-                            app:error="@{loginViewModel.passwordError}"
+                            app:error="@{loginViewModel.usernameOrPhoneError}"
                             app:met_errorColor="@android:color/holo_red_dark"
                             app:met_hideUnderline="true"
                             app:met_primaryColor="@color/colorPrimary"
